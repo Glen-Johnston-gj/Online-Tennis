@@ -1,0 +1,8 @@
+{
+    "IP" : "127.0.0.0",
+    "port" : 4000,
+    "lobby" : {
+        "name" : "TestLobby",
+        "password" : "password123"
+    }
+}

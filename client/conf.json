@@ -1,0 +1,10 @@
+{
+    "paddle speed" : 120,
+    "ball speed" : 120,
+    "IP" : "127.0.0.0",
+    "port" : 4000,
+    "lobby" : {
+        "passkey name" : "TestLobby",
+        "passkey psw" : "password123"
+    }
+}
