@@ -134,9 +134,9 @@ class Ball:
 
 class Game:
     def __init__(self):
-
-        self.key = PASSKEY_NAME + PASSKEY_PSW
         pg.init()
+        self.key = PASSKEY_NAME + PASSKEY_PSW
+        self.IP = IP
         self.screen = pg.display.set_mode(RES)
         self.clock = pg.time.Clock()
         self.width = RES[0]
